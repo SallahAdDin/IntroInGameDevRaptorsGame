@@ -1,7 +1,12 @@
 fileFormatVersion: 2
-guid: 097af077c0326a040b907cde0292bf37
+<<<<<<< Updated upstream:Assets/Prefabs.meta
+guid: f320ddcbe0ac4f940bd4ebb47db25f70
 folderAsset: yes
-timeCreated: 1474220949
+timeCreated: 1474220480
+=======
+guid: bea41e8f80698b54bbd9bce6c665fe9f
+timeCreated: 1474218907
+>>>>>>> Stashed changes:Assets/1.unity.meta
 licenseType: Free
 DefaultImporter:
   userData: 
